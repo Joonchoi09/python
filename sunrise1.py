@@ -22,6 +22,6 @@ canvas.setBackgroundColor("dark blue")
 sun = Circle(30)
 sun.setFillColor("yellow")
 canvas.add(sun)
-
+  
 
 animate_sunrise(sun)
