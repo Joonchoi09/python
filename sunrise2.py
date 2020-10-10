@@ -39,7 +39,7 @@ def animate_sunrise(sun, morning_sun, noon_sun, morning_sky, noon_sky):
     sun.moveTo(x, y)
 
 canvas = Canvas(600, 200)
-
+       
 sun = Circle(30)
 canvas.add(sun)
 
